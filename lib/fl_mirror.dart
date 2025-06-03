@@ -1,3 +1,5 @@
 library;
 
-export 'src/fl_mirror_base.dart';
+export 'src/failure.dart';
+export 'src/mirror.dart';
+export 'src/mirrorable.dart';

@@ -1,5 +1,5 @@
 name: fl_mirror
-description: A starting point for Dart libraries or applications.
+description: 🔍 A robust Dart utility for safe, functional-style handling of success and failure using Mirror<T>, detailed Failure types, and value equality via Mirrorable.
 version: 1.0.0
 homepage: https://github.com/Mbouziani/fl_mirror
 repository: https://github.com/Mbouziani/fl_mirror
@@ -10,15 +10,17 @@ environment:
   sdk: '>=3.0.0 <4.0.0'
 
 dependencies:
+  # No runtime dependencies for now
 
 dev_dependencies:
   lints: ^5.0.0
   test: ^1.24.0
 
-# Optional but useful
 topics:
-  - cqrs
-  - validation
-  - bus
-  - flutter
+  - functional-programming
+  - result-type
+  - failure
+  - mirror
+  - error-handling
+  - value-object
   - dart
