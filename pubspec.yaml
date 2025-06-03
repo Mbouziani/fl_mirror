@@ -17,10 +17,8 @@ dev_dependencies:
   test: ^1.24.0
 
 topics:
-  - functional-programming
   - result-type
-  - failure
-  - mirror
   - error-handling
+  - failure
   - value-object
   - dart
