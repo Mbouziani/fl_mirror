@@ -1,5 +1,5 @@
 name: fl_mirror
-description: 🔍 A robust Dart utility for safe, functional-style handling of success and failure using Mirror<T>, detailed Failure types, and value equality via Mirrorable.
+description: A robust Dart utility for safe, functional-style handling of success and failure using Mirror<T>, detailed Failure types, and value equality via Mirrorable.
 version: 1.0.0
 homepage: https://github.com/Mbouziani/fl_mirror
 repository: https://github.com/Mbouziani/fl_mirror
